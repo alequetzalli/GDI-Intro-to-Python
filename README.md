@@ -13,7 +13,7 @@ Installation
 ============
 
 
-*If you already have Python installed on your machine, you don't have to install this version. I do encourage you to start using Python3.5 and Anaconda, but it is not 100% necessary for this workshop.*
+*If you already have Python installed on your machine, you don't have to install this version. I do encourage you to start using Python3.5 and Anaconda, but it is not 100% necessary for this class.*
 
 We will use Python3.5
 Continuum Analytics makes python distributions that include modules for scientific computing. We will use a lightweight version of this distribution called Miniconda.
@@ -22,7 +22,7 @@ Go to the [Miniconda Installation Page](http://conda.pydata.org/miniconda.html) 
 
 Run the installer
 
-Now we want to install Jupyter notebooks so that we can run the workshop notebooks
+Now we want to install Jupyter notebooks so that we can run the class notebooks
 
 Open a command line window (Terminal on Mac or Powershell on Windows). At the command line type
 
