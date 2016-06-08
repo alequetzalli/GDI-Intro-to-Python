@@ -1,7 +1,7 @@
-# IntroToPython_WWConnect2016
+# IntroToPython_GDI-Intro-to-Python
 
-Jupyter Notebooks for Intro to Python Workshop at WWConnect2016
-https://github.com/wgrus/IntroToPython_WWConnect2016
+Jupyter Notebooks for Intro to Python for Girl Develop It
+https://github.com/wgrus/GDI-Intro-to-Python
 
 Wendy Grus
 
@@ -28,7 +28,7 @@ Open a command line window (Terminal on Mac or Powershell on Windows). At the co
 
 > conda install jupyter
 
-Choose download as zip from the [notebook directory from Wendy's Github page](https://github.com/wgrus/IntroToPython_WWConnect2016). Save the download in a place you can maneuver to from your command line (in a directory on the desktop is a good choice.) Unzip the directory.
+Choose download as zip from the [notebook directory from Wendy's Github page](https://github.com/wgrus/GDI-Intro-to-Python). Save the download in a place you can maneuver to from your command line (in a directory on the desktop is a good choice.) Unzip the directory.
 
 Open up the command line window again (or use the same one if you didn't close it). Maneuver to the directory containing the notebooks. At the command line type
 
